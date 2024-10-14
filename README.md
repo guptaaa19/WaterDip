@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hotel Booking Dashboard
+=======
+# Hotel Booking Dashboard Assignment
+>>>>>>> 34cc3806127aa459d34f92a0776bfb5eebf8f676
 
 This project is a hotel booking dashboard developed using React.js alongside TypeScript and incorporating Tailwind CSS. The dashboard’s focus is displaying booking information in charts and it allows users to manipulate the data retained by therefore selecting certain dates. For the purpose of this project, data from a CSV file, provided by the customer has been used with the help of **PapaParse** in order to obtain usable data.
 
@@ -36,7 +40,11 @@ This project is a hotel booking dashboard developed using React.js alongside Typ
 
 1. Clone the repository:
 
+<<<<<<< HEAD
    ```bash
+=======
+bash
+>>>>>>> 34cc3806127aa459d34f92a0776bfb5eebf8f676
    git clone <repository-url>
 2. Go to the address of the project's root folder:
 
@@ -47,6 +55,7 @@ cd hotel-booking-dashboard
 
 npm install
 Running the Project
+<<<<<<< HEAD
 =======
 # Getting Started with Create React App
 
@@ -95,3 +104,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 >>>>>>> 275bf55 (Initialize project using Create React App)
+=======
+>>>>>>> 34cc3806127aa459d34f92a0776bfb5eebf8f676
